@@ -3,5 +3,6 @@ class Test {
     String str = "Learning-git";
     System.out.println(str);
     System.out.println("First change");
+    System.out.println("Second change");
   }
 }
