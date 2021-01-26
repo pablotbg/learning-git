@@ -1,5 +1,6 @@
 class Test {
   public static void main(String[] args) {
-    System.out.println("Learning git");
+    String str = "Learning-git";
+    System.out.println(str);
   }
 }
